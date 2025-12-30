@@ -2,9 +2,7 @@
 
 
 
-This is a Python-based Prison Management System developed as an
-
-academic project in Class 12.
+This is a Python-based Prison Management System developed as an academic project in Class 12.
 
 
 
@@ -62,6 +60,7 @@ basic Python–MySQL integration.
 ## Author
 
 Saksham Yadav
+
 
 
 
