@@ -44,9 +44,9 @@ This is a Python-based Prison Management System developed as an academic project
 1. Install Python (3.x)
 2. Install MySQL
 3. Install MySQL connector:
-   pip install mysql-connector-python
+   \pip install mysql-connector-python
 4. Run:
-   python prison_management.py
+   \python prison_management.py
 
 
 
@@ -60,6 +60,7 @@ basic Python–MySQL integration.
 ## Author
 
 Saksham Yadav
+
 
 
 
