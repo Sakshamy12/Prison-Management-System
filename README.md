@@ -42,9 +42,27 @@ academic project in Class 12.
 
 
 
+## How to Run
+1. Install Python (3.x)
+2. Install MySQL
+3. Install MySQL connector:
+   pip install mysql-connector-python
+4. Run:
+   python prison_management.py
+
+
+
+## Note
+This project was developed as an academic project to demonstrate
+basic Python–MySQL integration.
+
+
+
+
 \## Author
 
 Saksham Yadav
+
 
 
 
