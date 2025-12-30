@@ -1,4 +1,4 @@
-\# Prison Management System
+# Prison Management System
 
 
 
@@ -8,7 +8,7 @@ academic project in Class 12.
 
 
 
-\## Features
+## Features
 
 \- Add prisoner details
 
@@ -18,7 +18,7 @@ academic project in Class 12.
 
 
 
-\## Technologies Used
+## Technologies Used
 
 \- Python
 
@@ -59,9 +59,10 @@ basic Python–MySQL integration.
 
 
 
-\## Author
+## Author
 
 Saksham Yadav
+
 
 
 
